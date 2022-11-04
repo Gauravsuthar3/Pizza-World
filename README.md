@@ -1,2 +1,2 @@
 # Pizza-World
-SGP of 6th semester
+SGP of 7th semester
